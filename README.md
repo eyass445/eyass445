@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/seyam_eyas" target="blank"><img src="https://img.shields.io/twitter/follow/seyam_eyas?logo=twitter&style=for-the-badge" alt="seyam_eyas" /></a> </p>
 
-- 🔭 I’m currently working on [BULLIT](https://bullit.app/)
+- 🔭 I’m currently working on [MetaChain](https://mcti.io)
 
-- 🌱 I’m currently learning **Frontend Dapps**
+- 🌱 I’m currently learning **full stack Dapps**
 
 - 👯 I’m looking to collaborate on [Binance](https://www.binance.com/)
 
-- 💬 Ask me about **Smart Contract**
+- 💬 Ask me about **Smart Contract and Nodejs web app **
 
 - 📫 How to reach me **iyasseyamoffical@gmail.com**
 
